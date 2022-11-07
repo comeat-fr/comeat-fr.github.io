@@ -1,0 +1,243 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.ellipse-icon,
+.ellipse-icon1 {
+  position: absolute;
+  top: 256px;
+  left: 1412px;
+  width: 400px;
+  height: 400px;
+}
+.ellipse-icon1 {
+  top: 486px;
+  left: 1154px;
+  width: 151px;
+  height: 145px;
+}
+.ellipse-icon2,
+.image-1-icon {
+  position: absolute;
+  top: 433px;
+  left: 1254px;
+  width: 250px;
+  height: 250px;
+}
+.image-1-icon {
+  top: 0;
+  left: 1003.02px;
+  border-radius: 263px;
+  width: 724.98px;
+  height: 572.19px;
+  object-fit: cover;
+}
+.comeat-div {
+  position: absolute;
+  top: 130px;
+  left: 513px;
+  font-size: 128px;
+  display: inline-block;
+}
+.rectangle-div,
+.rectangle-div1 {
+  position: absolute;
+  top: 1028px;
+  left: 0;
+  background-color: var(--white);
+  width: 1728px;
+  height: 57px;
+}
+.rectangle-div1 {
+  left: 58px;
+  width: 1028px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.image-2-icon {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+.beta-testing {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.contact-us-for {
+  margin: 0;
+}
+.beta-testing-contact-us-fo {
+  position: absolute;
+  top: 656px;
+  left: 249px;
+  font-size: 48px;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.comeat-off-div,
+.httpsdiscordggpsaurz4d-div {
+  position: absolute;
+  top: 906px;
+  left: 1077px;
+  display: inline-block;
+}
+.comeat-off-div {
+  top: 907px;
+  left: 172px;
+  width: 206px;
+  height: 51px;
+}
+.come-eat-come-meet,
+.comeat-app-off-div {
+  position: absolute;
+  top: 901px;
+  left: 566px;
+  display: inline-block;
+}
+.come-eat-come-meet {
+  top: 283px;
+  left: 619px;
+  font-size: 64px;
+  white-space: pre-wrap;
+}
+.discord-logo-color-1-icon,
+.image-3-icon,
+.twitter-logo-1-icon {
+  position: absolute;
+  top: 913px;
+  left: 1635px;
+  width: 45px;
+  height: 50.7px;
+  object-fit: cover;
+}
+.image-3-icon,
+.twitter-logo-1-icon {
+  top: 916px;
+  left: 401px;
+  height: 36px;
+}
+.image-3-icon {
+  top: 908px;
+  left: 911px;
+  height: 45px;
+}
+.bg-div {
+  border-radius: var(--br-md);
+  background-color: var(--black);
+}
+.background-8-dp,
+.bg-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.app-store-b,
+.get-it-from {
+  position: absolute;
+  left: calc(50% - 29.5px);
+  display: flex;
+  align-items: flex-end;
+  width: 93px;
+}
+.app-store-b {
+  bottom: 6px;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+  height: 19px;
+}
+.get-it-from {
+  top: 6px;
+  font-size: var(--sp-paragraph-small-size);
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  height: 16px;
+}
+.icon-arrow-right {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% + 29.5px);
+  width: 40px;
+  height: 40px;
+  display: none;
+}
+.apple-icon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 62.5px);
+  width: 23px;
+  height: 28px;
+}
+.appstore-div {
+  position: absolute;
+  top: 765px;
+  left: 1338px;
+  width: 147px;
+  height: 48px;
+  display: none;
+  font-size: var(--sp-paragraph-bold-size);
+  font-family: var(--sp-paragraph-bold);
+}
+.android-b,
+.get-it-on {
+  position: absolute;
+  left: calc(50% - 20px);
+  display: flex;
+  align-items: flex-end;
+  width: 74px;
+}
+.android-b {
+  bottom: 6px;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+  height: 19px;
+}
+.get-it-on {
+  top: 6px;
+  font-size: var(--sp-paragraph-small-size);
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  height: 16px;
+}
+.icon-arrow-right1 {
+  position: absolute;
+  top: calc(50% - 20px);
+  right: 4px;
+  width: 40px;
+  height: 40px;
+  display: none;
+}
+.android-icon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 54px);
+  width: 24px;
+  height: 28px;
+}
+.android-div {
+  position: absolute;
+  top: 765px;
+  left: 1548px;
+  width: 128px;
+  height: 48px;
+  display: none;
+  font-size: var(--sp-paragraph-bold-size);
+  font-family: var(--sp-paragraph-bold);
+}
+.macbook-pro-16-1 {
+  position: relative;
+  background-color: #f28709;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-k2d);
+}

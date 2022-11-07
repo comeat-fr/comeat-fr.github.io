@@ -1,0 +1,17 @@
+:root {
+  /* fonts */
+  --sp-paragraph-bold: Inter;
+  --font-k2d: K2D;
+
+  /* font sizes */
+  --sp-paragraph-small-size: 14px;
+  --sp-paragraph-bold-size: 18px;
+  --font-size-base: 40px;
+
+  /* Colors */
+  --white: #fff;
+  --black: #2d3436;
+
+  /* border radiuses */
+  --br-md: 8px;
+}
